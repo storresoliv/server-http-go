@@ -2,10 +2,10 @@
 A simple server http in Golang
 
 # Run
-`go run src/server/main.go`
+`go run src/server.go`
 
 # Compile
-`go build -o bin/server -i src/server/main.go`
+`go build -o bin/server -i src/server.go`
 
 # Run compiled
 `bin/./server`
